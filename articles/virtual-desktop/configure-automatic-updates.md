@@ -15,6 +15,8 @@ manager: lizross
 
 This article explains how to configure Microsoft Endpoint Configuration Manager to automatically apply updates to a Windows Virtual Desktop host running Windows 10 Enterprise multi-session.
 
+An alternative approach to update virtual machines in a Windows Virtual Desktop host pool is to build a new version of the master image. This updated image can be used to re-deploy the virtual machines in the host pool.
+
 ## Prerequisites
 
 To configure this setting, you'll need the following things:
